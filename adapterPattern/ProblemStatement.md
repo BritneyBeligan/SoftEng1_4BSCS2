@@ -28,3 +28,5 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 
   ![Beligan_UML_Diagram](https://github.com/BritneyBeligan/SoftEng1_4BSCS2/assets/142373706/127e4506-0ca7-485a-a130-2da0ac70b714)
+
+![output_lab 6](https://github.com/BritneyBeligan/SoftEng1_4BSCS2/assets/142373706/cc3bea4e-6316-42c9-9d53-6541f04a3369)
